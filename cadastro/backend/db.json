@@ -1,0 +1,11 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "André dos Santos",
+        "email": "andre.curvina@aluno.faculdadeimpacta.com.br"
+    }, {
+        "id": 2,
+        "name": "Lucas Silva",
+        "email": "lucassilva@gmail.com"
+    }]
+}
