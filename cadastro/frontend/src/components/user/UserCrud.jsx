@@ -4,7 +4,7 @@ import Main from "../templete/Main"
 
 const headerProps = {
     icon: 'users',
-    title: 'Usuarios',
+    title: 'Usuários',
     subtitle: 'Cadastro de alunos da Faculdade Impacta!'
 }
 
