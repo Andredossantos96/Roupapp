@@ -5,7 +5,7 @@ import Main from "../templete/Main"
 const headerProps = {
     icon: 'users',
     title: 'Usuários',
-    subtitle: 'Cadastro de alunos da Faculdade Impacta!'
+    subtitle: 'Cadastro de usuários Roupapp!'
 }
 
 const baseUrl = 'http://localhost:3001/users'
